@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+
+include WUDESIM_Py/epanet2.dll
+include WUDESIM_Py/WUDESIM_LIB.dll

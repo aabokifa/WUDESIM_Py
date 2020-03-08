@@ -1,0 +1,56 @@
+WUDESIM_Py
+=======================
+
+
+WUDESIM_Py performs water quality simulation in the dead-end branches of drinking water distribution networks
+
+
+* Free software: MIT license
+* GitHub: https://github.com/aabokifa/WUDESIM
+
+Overview
+---------
+
+WUDESIM_Py is a Python package for water quality simulation in the dead-end
+branches of drinking water distribution networks considering advection-dispersion
+transport and spatially-distributed water demands.
+
+
+
+Version
+-------
+
+WUDESIM_Py is an ongoing research projects.
+The current version is 0.1.0, which is still a pre-release.
+
+Contact
+-------
+
+* Ahmed Abokifa, the University of Illinois at Chicago,  abokifa@uic.edu
+* Lina Sela, the University of Texas at Austin, linasela@utexas.edu
+
+Disclaimer
+----------
+
+No warranty, expressed or implied, is made as to the correctness of the
+results or the suitability of the application.
+
+
+Cite WUDESIM_Py
+----------------
+
+To cite WUDESIM_Py, use one of the following references:
+
+Abokifa, Ahmed A., Y. Jeffrey Yang, Cynthia S. Lo, and Pratim Biswas.
+"Water quality modeling in the dead end sections of drinking water
+distribution networks." Water research 89 (2016): 107-117.
+
+Abokifa, Ahmed A., Abhilasha Maheshwari, Ravindra D. Gudi, and Pratim Biswas.
+"Influence of Dead-End Sections of Drinking Water Distribution Networks on Optimization
+of Booster Chlorination Systems." Journal of Water Resources Planning and Management 145,
+no. 12 (2019): 04019053.
+
+License
+-------
+
+WUDESIM_Py  is released under the MIT license. See the LICENSE.txt file.

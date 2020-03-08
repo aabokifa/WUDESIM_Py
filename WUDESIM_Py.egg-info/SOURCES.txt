@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+WUDESIM_Py/WUDESIM_LIB.dll
+WUDESIM_Py/__init__.py
+WUDESIM_Py/epanet2.dll
+WUDESIM_Py/src.py
+WUDESIM_Py.egg-info/PKG-INFO
+WUDESIM_Py.egg-info/SOURCES.txt
+WUDESIM_Py.egg-info/dependency_links.txt
+WUDESIM_Py.egg-info/top_level.txt
